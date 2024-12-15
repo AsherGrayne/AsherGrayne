@@ -1,4 +1,6 @@
 ## Hi there 👋
+Its Pratick Kumar Choudhury here. 
+A 3rd year student at Assam Engineering College(AEC).
 
 <!--
 **AsherGrayne/AsherGrayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
